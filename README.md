@@ -1,4 +1,4 @@
-# Personal-Projecj
+# Personal-Project
 
 My personal website
 
