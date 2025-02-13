@@ -2,6 +2,6 @@
 
 My personal website [OLD]
 
-https://koushikk7.github.io/Project2-PersonalSite/
+https://koushikk7.github.io/Personal-WebPage-OLD
 
 The new one is WIP
